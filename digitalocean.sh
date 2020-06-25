@@ -1,4 +1,4 @@
-export TOKEN=58d7f89441991f8e16af2419717a9a0d33584b232bfc5be6bb1f623150cf9573
+export TOKEN="censored"
 MAAND=$( date +%B )
 
 #active droplets
