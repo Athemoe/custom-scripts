@@ -1,2 +1,2 @@
-# custom-scripts
+# custom scripts
 home made scripts to increase efficiency
